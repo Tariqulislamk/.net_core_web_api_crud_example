@@ -1,0 +1,168 @@
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\bin\Debug\net8.0\DotNETCoreWebAPI.exe
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\bin\Debug\net8.0\DotNETCoreWebAPI.deps.json
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\bin\Debug\net8.0\DotNETCoreWebAPI.runtimeconfig.json
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\bin\Debug\net8.0\DotNETCoreWebAPI.dll
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\bin\Debug\net8.0\DotNETCoreWebAPI.pdb
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\obj\Debug\net8.0\DotNETCoreWebAPI.csproj.AssemblyReference.cache
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\obj\Debug\net8.0\DotNETCoreWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\obj\Debug\net8.0\DotNETCoreWebAPI.AssemblyInfoInputs.cache
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\obj\Debug\net8.0\DotNETCoreWebAPI.AssemblyInfo.cs
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\obj\Debug\net8.0\DotNETCoreWebAPI.csproj.CoreCompileInputs.cache
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\obj\Debug\net8.0\DotNETCoreWebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\obj\Debug\net8.0\DotNETCoreWebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.DotNETCoreWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.DotNETCoreWebAPI.props
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DotNETCoreWebAPI.props
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DotNETCoreWebAPI.props
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\obj\Debug\net8.0\scopedcss\bundle\DotNETCoreWebAPI.styles.css
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\obj\Debug\net8.0\DotNETCo.E6F61DDD.Up2Date
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\obj\Debug\net8.0\DotNETCoreWebAPI.dll
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\obj\Debug\net8.0\refint\DotNETCoreWebAPI.dll
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\obj\Debug\net8.0\DotNETCoreWebAPI.pdb
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\obj\Debug\net8.0\DotNETCoreWebAPI.genruntimeconfig.cache
+C:\Users\S.H. LISAD\source\repos\DotNETCoreWebAPI\obj\Debug\net8.0\ref\DotNETCoreWebAPI.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\appsettings.Development.json
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\appsettings.json
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\DotNETCoreWebAPI.exe
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\DotNETCoreWebAPI.deps.json
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\DotNETCoreWebAPI.runtimeconfig.json
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\DotNETCoreWebAPI.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\DotNETCoreWebAPI.pdb
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\DotNETCoreWebAPI\obj\Debug\net8.0\DotNETCoreWebAPI.csproj.AssemblyReference.cache
+E:\DotNETCoreWebAPI\obj\Debug\net8.0\DotNETCoreWebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\DotNETCoreWebAPI\obj\Debug\net8.0\DotNETCoreWebAPI.AssemblyInfoInputs.cache
+E:\DotNETCoreWebAPI\obj\Debug\net8.0\DotNETCoreWebAPI.AssemblyInfo.cs
+E:\DotNETCoreWebAPI\obj\Debug\net8.0\DotNETCoreWebAPI.csproj.CoreCompileInputs.cache
+E:\DotNETCoreWebAPI\obj\Debug\net8.0\DotNETCoreWebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\DotNETCoreWebAPI\obj\Debug\net8.0\DotNETCoreWebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\DotNETCoreWebAPI\obj\Debug\net8.0\staticwebassets.build.json
+E:\DotNETCoreWebAPI\obj\Debug\net8.0\staticwebassets.development.json
+E:\DotNETCoreWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.DotNETCoreWebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\DotNETCoreWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.DotNETCoreWebAPI.props
+E:\DotNETCoreWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DotNETCoreWebAPI.props
+E:\DotNETCoreWebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DotNETCoreWebAPI.props
+E:\DotNETCoreWebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+E:\DotNETCoreWebAPI\obj\Debug\net8.0\scopedcss\bundle\DotNETCoreWebAPI.styles.css
+E:\DotNETCoreWebAPI\obj\Debug\net8.0\DotNETCo.E6F61DDD.Up2Date
+E:\DotNETCoreWebAPI\obj\Debug\net8.0\DotNETCoreWebAPI.dll
+E:\DotNETCoreWebAPI\obj\Debug\net8.0\refint\DotNETCoreWebAPI.dll
+E:\DotNETCoreWebAPI\obj\Debug\net8.0\DotNETCoreWebAPI.pdb
+E:\DotNETCoreWebAPI\obj\Debug\net8.0\DotNETCoreWebAPI.genruntimeconfig.cache
+E:\DotNETCoreWebAPI\obj\Debug\net8.0\ref\DotNETCoreWebAPI.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Azure.Core.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Azure.Identity.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Humanizer.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\System.CodeDom.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\System.Memory.Data.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\DotNETCoreWebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
